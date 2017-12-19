@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rbunning/JABR-Project-3-config-yml-files.git
+          uri: https://github.com/revaturelabs/scrumboard-config-files.git
           default-label: localTestBranch
           
