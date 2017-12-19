@@ -9,5 +9,5 @@ spring:
       server:
         git:
           uri: https://github.com/revaturelabs/scrumboard-config-files.git
-          default-label: localTestBranch
+#          default-label: localTestBranch
           
